@@ -6,6 +6,7 @@ import Directory from '../../components/directory/directory';
 const Homepage = () => (
     <div className='homepage'>
         <Directory />
+        <gg></gg>
     </div>
 
 )
