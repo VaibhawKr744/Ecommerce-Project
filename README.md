@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -REDUX
 -STRIPE API
 
+![crwn1](https://user-images.githubusercontent.com/40695068/104835674-2d36b780-58ce-11eb-918d-a7aff014686d.PNG)
+![crwn2](https://user-images.githubusercontent.com/40695068/104835680-32940200-58ce-11eb-868d-01b30810f32c.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
